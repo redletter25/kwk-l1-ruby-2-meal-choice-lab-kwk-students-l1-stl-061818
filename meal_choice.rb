@@ -42,10 +42,10 @@ lunch
 
 
 
-def dinner (diner = "")
+def dinner (diner = "salmon")
+  puts "The evening is the best time for #{diner}!"
 
-
-
+dinner
 
 
 
