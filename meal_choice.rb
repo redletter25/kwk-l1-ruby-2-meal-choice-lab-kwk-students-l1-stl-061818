@@ -44,6 +44,7 @@ lunch
 
 def dinner (diner = "salmon")
   puts "The evening is the best time for #{diner}!"
+end
 
 dinner
 
